@@ -1,0 +1,24 @@
+body
+{
+ background-size: cover;
+ color: white;
+ font-family: 'Raleway', sans-serif;
+}
+
+#main
+{
+ background-color: darkgreen;
+ width:max-content
+}
+
+#ins
+{
+ background-color: darkgreen;
+ width:max-content;
+}
+
+canvas
+{
+ border:3px solid white;
+ border-radius: 10px;
+}
